@@ -1,0 +1,18 @@
+{
+  "H0": 72.0,
+  "Om": 0.322,
+  "Obh2": 0.0224,
+  "sfv_clock": "gauss",
+  "A": 0.534,
+  "zc": 15500.0,
+  "sigma_ln1pz": 0.3,
+  "matched_r_d_Mpc": 139.902,
+  "DESI_fullcov_chi2": 20.2779,
+  "DESI_fullcov_N": 12,
+  "rd_nuisance_fit": {
+    "alpha_best": 1.00968,
+    "r_d_best_Mpc": 138.5605,
+    "chi2_best": 16.1649
+  },
+  "note": "Amplitude tied to Lambda*=0.72 eV via energy scale; only onset timing adjusted via GAUSS clock."
+}
